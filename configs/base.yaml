@@ -1,0 +1,9 @@
+model:
+  name: "PretrainedModel"
+
+training:
+  epochs: 1
+  lr: 0.001
+
+data:
+  batch_size: 32
